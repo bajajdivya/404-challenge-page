@@ -48,7 +48,7 @@ body {
   .scarecrow {
     display: flex;
     width: 42vw;
-    height: 35vh;
+    height: auto;
     padding: 3vh 1vw 3vh 1vh;
   }
   .right {
